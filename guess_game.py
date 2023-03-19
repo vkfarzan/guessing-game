@@ -1,3 +1,5 @@
+# Github: https://github.com/vkfarzan/guessing-game
+
 import os # to change the working directory
 import pygame # to play music
 import random # to generate a random number
