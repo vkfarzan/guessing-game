@@ -1,4 +1,5 @@
-# Github: https://github.com/vkfarzan/guessing-game
+# This file was written by Farzan Vahidiankamyar
+# Github source: https://github.com/vkfarzan/guessing-game
 
 import os # to change the working directory
 import pygame # to play music
@@ -6,7 +7,7 @@ import random # to generate a random number
 
 def get_path(filename):
     """Get the path to the given filename."""
-    return os.path.join(os.path.dirname(__file__), filename)
+    return os.path.join(os.path.dirname(__file__), 'sounds', filename)
 
 # Get the paths to the mp3 files
 correct = get_path('correct.mp3')
