@@ -3,12 +3,12 @@
 This is a command-line game in which the player tries to guess a secret number between 1 and 100. The game has three difficulty levels: easy (unlimited guesses), medium (10 guesses), and hard (5 guesses).
 
 
-**Purpose**
+### Purpose
 
 The purpose of this game is to provide a fun and challenging way for users to test their guessing skills. It can be played by people of all ages and skill levels.
 
 
-**Features**
+### Features
 
 - Three difficulty levels: easy (unlimited guesses), medium (10 guesses), and hard (5 guesses)
 - Music and sound effects to provide feedback to the player
@@ -17,14 +17,6 @@ The purpose of this game is to provide a fun and challenging way for users to te
 - Keeps track of the high score and notifies the player when they beat it
 
 
-**Usage**
-
-1. Run the game by following the installation steps.
-2. Choose the difficulty level: easy, medium, or hard.
-3. Guess the number between 1 and 100.
-4. If you guess the number within the allowed number of guesses, you win.
-5. If you don't guess the number within the allowed number of guesses, you lose.
-6. If you beat your previous high score, you will see a message that says "New high score!".
 
 ## Requirements
 
