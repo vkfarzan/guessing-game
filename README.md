@@ -31,18 +31,19 @@ The purpose of this game is to provide a fun and challenging way for users to te
 The following packages are required to run this program:
 
 - Python 3.x
-- Pygame 2.1.0
+- Pygame 2.3.0
 
-You can install the necessary packages by running the following command in the command line.
-```
-pip install -r requirements.txt
-```
 
 
 
 ## How to Use
 
 Clone this repository or download the ZIP file.
+
+Install the necessary packages by running the following command in the command line.
+```
+pip install -r requirements.txt
+```
 
 Run the **guess_game.py** file using the following command:
 
@@ -54,7 +55,7 @@ python guess_game.py
 2. Try to guess the secret number by typing a number between 1 and 100.
 3. If you guess correctly, you win! If you run out of guesses, you lose.
 4. After each game, you will be asked if you want to play again. Type 'yes' or 'no' to continue or exit the game by simply typing 'quit'.
-5. If you beat your high score, you will see a message with 'wow' indicating that you broke the record.
+5. If you beat your high score, you will see a message with 'Wow!' indicating that you broke the record.
 
 Enjoy the game!
 
