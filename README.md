@@ -1,6 +1,6 @@
 # **Guessing Game**
 <p align="center">
-  <img src="image_name.jpg" alt="Image Description" width="480" height="270" style="border-radius:50%">
+  <img src="image.png" alt="Guessing Game" width="480" height="270">
 </p>
 
 This is a command-line game in which the player tries to guess a secret number between 1 and 100. The game has three difficulty levels: easy (unlimited guesses), medium (10 guesses), and hard (5 guesses).
