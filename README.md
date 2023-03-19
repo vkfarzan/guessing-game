@@ -42,7 +42,9 @@ pip install -r requirements.txt
 
 ## How to Use
 
-*Run the **guess_game.py** file using the following command:*
+Clone this repository or download the ZIP file.
+
+Run the **guess_game.py** file using the following command:
 
 ```
 python guess_game.py
