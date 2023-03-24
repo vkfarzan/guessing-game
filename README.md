@@ -53,7 +53,7 @@ python guess_game.py
 4. After each game, you will be asked if you want to play again. Type 'yes' or 'no' to continue or exit the game by simply typing 'quit'.
 5. If you beat your high score, you will see a message with 'Wow!' indicating that you broke the record.
 
-Enjoy the game!
+Enjoy the game! :)
 
 ## License
 
