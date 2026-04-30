@@ -62,5 +62,5 @@ This program is licensed under the [MIT License](https://github.com/vkfarzan/gue
 
 ## Credits
 
-This program was written by Farzan Vahidiankamyar for the final project of the course "KI in der Logistik" at the [University of Duisburg Essen](https://www.uni-due.de/).
+This program was written by Farzan for the final project of the course "KI in der Logistik".
 Sound effects were obtained from [PIXABAY](https://pixabay.com/).
